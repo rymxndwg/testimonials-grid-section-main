@@ -87,7 +87,7 @@ body {
 @media (min-width: 576px) {
     #testimonial-grid-container {
         display: flex;
-        max-width: 900px;
+        max-width: 1400px;
         margin: 0 auto; /*Trick to center box*/
     }
 
